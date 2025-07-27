@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=140&section=header&text=Jatin%20Kumar%20|%20Web%20Developer%20|%20Tech%20Explorer&fontSize=26&fontColor=ffffff&desc=B.Tech%20Student%20%7C%20Full%20Stack%20Learner%20%7C%202nd%20Year" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=170&section=header&text=Jatin%20Kumar&fontSize=38&fontColor=ffffff&desc=Web%20Developer%20%7C%20Tech%20Explorer%20%7C%20B.Tech%202nd%20Year&descAlign=60&descAlignY=55&descSize=22" />
 </p>
-
 ## 👋 Hi, I'm Jatin Kumar
 
 - 🎓 **B.Tech Student** (2nd Year)
