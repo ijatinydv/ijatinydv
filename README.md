@@ -1,57 +1,162 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
+  <div style="position: relative;">
+    ```svg
+    <svg fill="none" viewBox="0 0 850 400" width="850" height="400" xmlns="http://www.w3.org/2000/svg">
+      <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <style>
+            .container {
+              width: 100%;
+              height: 400px;
+              background: linear-gradient(to bottom right, #1a1a1a, #2d2d2d);
+              border-radius: 10px;
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+              justify-content: center;
+              font-family: system-ui;
+              position: relative;
+              overflow: hidden;
+            }
+            .name {
+              font-size: 48px;
+              color: #fff;
+              text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+              margin-bottom: 10px;
+              animation: glow 2s ease-in-out infinite alternate;
+            }
+            .title {
+              font-size: 24px;
+              color: #64ffda;
+              margin-bottom: 20px;
+            }
+            .stats {
+              display: flex;
+              gap: 30px;
+              color: #fff;
+              font-size: 18px;
+            }
+            .grid {
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+              background: linear-gradient(
+                90deg,
+                rgba(255, 255, 255, 0.1) 1px,
+                transparent 1px
+              ),
+              linear-gradient(
+                rgba(255, 255, 255, 0.1) 1px,
+                transparent 1px
+              );
+              background-size: 30px 30px;
+              animation: grid 15s linear infinite;
+            }
+            @keyframes glow {
+              from {
+                text-shadow: 0 0 10px #64ffda;
+              }
+              to {
+                text-shadow: 0 0 20px #64ffda, 0 0 30px #64ffda;
+              }
+            }
+            @keyframes grid {
+              0% {
+                transform: translateY(0);
+              }
+              100% {
+                transform: translateY(30px);
+              }
+            }
+          </style>
+          <div class="container">
+            <div class="grid"></div>
+            <div class="name">Jatin Kumar</div>
+            <div class="title">Full Stack Developer • Tech Explorer</div>
+            <div class="stats">
+              <div>B.Tech 2nd Year</div>
+              <div>•</div>
+              <div>Web Developer</div>
+              <div>•</div>
+              <div>Creative Coder</div>
+            </div>
+          </div>
+        </div>
+      </foreignObject>
+    </svg>
+    ```
+  </div>
 
-  # Hello World! I'm Jatin Kumar 👋
-  ### Crafting Digital Experiences | B.Tech Explorer
-</div>
+  <br />
 
-### 💫 About Me
-```javascript
-const jatin = {
-    role: "Web Developer",
-    education: "B.Tech (2nd Year)",
-    location: "India",
-    coding: ["Frontend", "Backend", "UI/UX"],
-    currentlyLearning: "Advanced React Patterns",
-    funFact: "I debug with console.log and refuse to apologize for it 😄"
-};
-```
+  ```typescript
+  class Developer {
+    name: string = 'Jatin Kumar';
+    role: string = 'Full Stack Developer';
+    location: string = 'India';
+    education: string = 'B.Tech (2nd Year)';
+    
+    skills: Skills = {
+      languages: ['JavaScript', 'HTML', 'CSS'],
+      frameworks: ['React', 'Node.js', 'Express'],
+      styling: ['Tailwind CSS', 'GSAP'],
+      database: ['MongoDB'],
+      currentlyLearning: ['Advanced React', 'System Design']
+    };
 
-### 🎯 Projects That Define Me
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ijatinydv&repo=hindi-sikhiye&theme=react&hide_border=true&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ijatinydv&repo=capture-the-flag&theme=react&hide_border=true&show_icons=true" />
-</div>
+    get contact(): Contact {
+      return {
+        linkedin: 'jatin-kumar-a5655b30a',
+        portfolio: 'coming-soon...'
+      };
+    }
+  }
+  ```
 
-### ⚡ My Tech Arsenal
-<div align="center">
-  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  <div align="left">
+    
+  ## 🚀 Featured Projects
+    
+  <table>
+    <tr>
+      <td>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Hindi_Sikhiye-Interactive_Learning-4d94ff?style=for-the-badge&logoColor=white" alt="Hindi Sikhiye"/>
+        </a>
+        <p>Learn Hindi through interactive lessons and quizzes.</p>
+        <p><strong>Tech:</strong> React • Node.js • MongoDB</p>
+      </td>
+      <td>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Capture_The_Flag-Gaming_Platform-ff4d4d?style=for-the-badge&logoColor=white" alt="CTF"/>
+        </a>
+        <p>Competitive coding challenges with real-time updates.</p>
+        <p><strong>Tech:</strong> React • GSAP • Express</p>
+      </td>
+    </tr>
+  </table>
+
+  ## 💻 Tech Stack
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  
+  ## 📈 Stats
+  <img src="https://streak-stats.demolab.com?user=ijatinydv&theme=tokyonight&hide_border=true&border_radius=10" height="150" alt="streak graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijatinydv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"/>
 
 </div>
 
-### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ijatinydv&theme=react&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijatinydv&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</div>
-
-### 🌐 Let's Connect
-<div align="center">
-  <a href="https://www.linkedin.com/in/jatin-kumar-a5655b30a/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
----
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" />
+  
+  ### 🤝 Let's Connect!
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-kumar-a5655b30a/)
+  
+  ---
+  <sub>Last Updated: 2024-07-27</sub>
 </div>
