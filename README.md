@@ -1,62 +1,57 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=190&section=header" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Jatin+Kumar;Web+Developer;Tech+Explorer" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
 
-## 👨‍💻 About Me
-```typescript
+  # Hello World! I'm Jatin Kumar 👋
+  ### Crafting Digital Experiences | B.Tech Explorer
+</div>
+
+### 💫 About Me
+```javascript
 const jatin = {
+    role: "Web Developer",
     education: "B.Tech (2nd Year)",
-    code: ["JavaScript", "HTML", "CSS", "React", "Node.js"],
-    tools: ["Tailwind CSS", "Express", "MongoDB", "GSAP"],
-    currentFocus: "Building modern web applications",
-    passions: ["Web Development", "UI/UX", "Animation"]
+    location: "India",
+    coding: ["Frontend", "Backend", "UI/UX"],
+    currentlyLearning: "Advanced React Patterns",
+    funFact: "I debug with console.log and refuse to apologize for it 😄"
 };
 ```
 
+### 🎯 Projects That Define Me
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ijatinydv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijatinydv&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ijatinydv&repo=hindi-sikhiye&theme=react&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ijatinydv&repo=capture-the-flag&theme=react&hide_border=true&show_icons=true" />
 </div>
 
-## 🚀 Projects
+### ⚡ My Tech Arsenal
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Hindi Sikhiye</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/LIVE-Learn%20Hindi-4d94ff?style=for-the-badge" alt="Hindi Sikhiye" />
-          </a>
-          <p><strong>React, Node.js, MongoDB</strong> - Interactive Hindi learning platform with quizzes and progress tracking</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Capture The Flag</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/LIVE-Play%20Now-ff4d4d?style=for-the-badge" alt="Capture The Flag" />
-          </a>
-          <p><strong>React, GSAP, Express</strong> - Engaging CTF platform with real-time leaderboard and dynamic animations</p>
-        </div>
-      </td>
-    </tr>
-  </table>
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+
 </div>
 
-## 🛠️ Tech Stack
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git" alt="Tech Stack" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ijatinydv&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijatinydv&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
-## 🤝 Connect With Me
+### 🌐 Let's Connect
 <div align="center">
-  <a href="https://www.linkedin.com/in/jatin-kumar-a5655b30a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/jatin-kumar-a5655b30a/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=100&section=footer" />
-</p>
+---
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" />
+</div>
