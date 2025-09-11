@@ -16,7 +16,7 @@ const jatin = {
     askMeAbout: ["web dev", "tech", "frontend", "backend"],
     technologies: {
         frontend: ["React", "Tailwind CSS", "GSAP"],
-        backend: ["Node.js", "Express"],
+        backend: ["Node.js", "Express", "Socket.io"],
         database: ["MongoDB"],
         current: "Building interactive web experiences"
     }
@@ -28,25 +28,66 @@ const jatin = {
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">MyChatgpt</h3>
+<div align="center">
+<a href="https://github.com/ijatinydv/MyChatgpt" target="_blank"><img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
+<br>
+<br>
+<p><strong>AI Chatbot</strong> - Custom ChatGPT-like AI chatbot with interactive UI and support for multiple conversations.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">Moody-Player</h3>
+<div align="center">
+<a href="https://github.com/ijatinydv/Moody-Player" target="_blank"><img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
+<br>
+<br>
+<p><strong>Music Player</strong> - Mood-based music player that curates playlists according to your current mood.</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">PosturePal</h3>
+<div align="center">
+<a href="https://github.com/ijatinydv/PosturePal" target="_blank"><img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
+<br>
+<br>
+<p><strong>Health Tech</strong> - AI-powered posture detection app that helps you maintain healthy posture during computer work.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">AI Chatbot (Backend)</h3>
+<div align="center">
+<a href="https://github.com/ijatinydv/Backend" target="_blank"><img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
+<br>
+<br>
+<p><strong>Node.js, Socket.io</strong> - Backend service for AI-powered chatbots with real-time messaging and NLP capabilities.</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 <h3 align="center">Hindi Sikhiye</h3>
 <div align="center">
 <a href="https://github.com/ijatinydv/hindi-sikhiye" target="_blank"><img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Live-green?style=for-the-badge&color=2ea44f"></a>
 <br>
 <br>
-<p><strong>React, Node.js, MongoDB</strong> - Interactive Hindi learning platform with gamified lessons and progress tracking</p>
+<p><strong>React, Node.js, MongoDB</strong> - Interactive Hindi learning platform with gamified lessons and progress tracking.</p>
 </div>
-                                                                                      
 </td>
 
 <td width="50%">
 <h3 align="center">Capture The Flag</h3>
 <div align="center">
 <a href="https://github.com/ijatinydv/capture-the-flag" target="_blank"><img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Live-green?style=for-the-badge&color=2ea44f"></a>
 <br>
 <br>
-<p><strong>React, GSAP, Express</strong> - Competitive coding platform with real-time leaderboard and dynamic animations</p>
+<p><strong>React, GSAP, Express</strong> - Competitive coding platform with real-time leaderboard and dynamic animations.</p>
 </div>
 </td>
 </tr>
@@ -61,6 +102,7 @@ const jatin = {
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Socket.io](https://img.shields.io/badge/socket.io-%23404d59.svg?style=for-the-badge&logo=socket.io&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## GitHub Stats 📊
