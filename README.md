@@ -33,7 +33,7 @@ const jatin = {
 <a href="https://github.com/ijatinydv/MyChatgpt" target="_blank"><img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
 <br>
 <br>
-<p><strong>AI Chatbot</strong> - Custom ChatGPT-like AI chatbot with interactive UI and support for multiple conversations.</p>
+<p><strong>AI Chatbot</strong> - Custom ChatGPT-like AI chatbot with interactive UI and support for multiple conversations.(Currently working on it..Short term memory implemented)</p>
 </div>
 </td>
 
@@ -60,12 +60,12 @@ const jatin = {
 </td>
 
 <td width="50%">
-<h3 align="center">AI Chatbot (Backend)</h3>
+<h3 align="center">AI Chatbot</h3>
 <div align="center">
 <a href="https://github.com/ijatinydv/Backend" target="_blank"><img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
 <br>
 <br>
-<p><strong>Node.js, Socket.io</strong> - Backend service for AI-powered chatbots with real-time messaging and NLP capabilities.</p>
+<p><strong>Node.js, Socket.io</strong> - AI-powered chatbots with real-time messaging, interactive UI and short term memory.</p>
 </div>
 </td>
 </tr>
@@ -87,7 +87,7 @@ const jatin = {
 <a href="https://github.com/ijatinydv/capture-the-flag" target="_blank"><img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
 <br>
 <br>
-<p><strong>React, GSAP, Express</strong> - Competitive coding platform with real-time leaderboard and dynamic animations.</p>
+<p><strong>React, GSAP, Express</strong> - Capture the flag(CTF) website happened in mait by bizbyte society.</p>
 </div>
 </td>
 </tr>
