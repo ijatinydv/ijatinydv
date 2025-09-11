@@ -52,7 +52,7 @@ const jatin = {
 <td width="50%">
 <h3 align="center">PosturePal</h3>
 <div align="center">
-<a href="https://github.com/ijatinydv/PosturePal" target="_blank"><img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
+<a href="https://github.com/ijatinydv/Posture-Pal" target="_blank"><img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
 <br>
 <br>
 <p><strong>Health Tech</strong> - AI-powered posture detection app that helps you maintain healthy posture during computer work.</p>
