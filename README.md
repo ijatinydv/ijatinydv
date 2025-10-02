@@ -33,7 +33,7 @@ const jatin = {
 <a href="https://github.com/ijatinydv/MyChatgpt" target="_blank"><img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
 <br>
 <br>
-<p><strong>AI Chatbot</strong> - Custom ChatGPT-like AI chatbot with interactive UI and support for multiple conversations.(Currently working on it..Short term memory implemented)</p>
+<p><strong>MyChatGpt</strong> - is a production-grade AI chat application that replicates nearly all of ChatGPT's core features, built using React, Node.js, and MongoDB with real-time messaging capabilities. The project offers secure user authentication, persistent chat history, context-aware AI responses using vector embeddings, and a responsive UI that mirrors ChatGPT's interface, making it perfect for developers looking to understand AI integration or deploy their own ChatGPT alternative</p>
 </div>
 </td>
 
@@ -43,7 +43,7 @@ const jatin = {
 <a href="https://github.com/ijatinydv/Moody-Player" target="_blank"><img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
 <br>
 <br>
-<p><strong>Music Player</strong> - Mood-based music player that curates playlists according to your current mood.</p>
+<p><strong>Music Player</strong> - Mood-based music player that analyse your current mood and curates playlists according to your mood.</p>
 </div>
 </td>
 </tr>
