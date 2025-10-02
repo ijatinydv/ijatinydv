@@ -33,7 +33,14 @@ const jatin = {
 <a href="https://github.com/ijatinydv/MyChatgpt" target="_blank"><img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
 <br>
 <br>
-<p><strong>MyChatGpt</strong> - is a production-grade AI chat application that replicates nearly all of ChatGPT's core features, built using React, Node.js, and MongoDB with real-time messaging capabilities. The project offers secure user authentication, persistent chat history, context-aware AI responses using vector embeddings, and a responsive UI that mirrors ChatGPT's interface, making it perfect for developers looking to understand AI integration or deploy their own ChatGPT alternative</p>
+<p><strong>MyChatGpt</strong> - is a feature-complete ChatGPT clone that delivers 90% of ChatGPT's core functionality. Built with React, Node.js, and MongoDB, it offers:
+
+🤖 Real-time AI conversations powered by OpenAI
+🔐 Secure user authentication and session management
+💬 Live messaging with Socket.io integration
+🧠 Context-aware responses using vector embeddings
+📱 Responsive design with dark/light themes
+📚 Persistent chat history and multi-conversation support</p>
 </div>
 </td>
 
