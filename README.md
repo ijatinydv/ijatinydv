@@ -10,6 +10,6 @@
 
 <br/>
 
-[jatinkumar97511@email.com](mailto:jatinkumar97511@email.com) · [portfolio](https://jatin-kumar-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jatin-kumar-a5655b30a)
+[jatinkumar97511@gmail.com](mailto:jatinkumar97511@gmail.com) · [portfolio](https://jatin-kumar-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jatin-kumar-a5655b30a)
 
 </div>
